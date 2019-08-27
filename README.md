@@ -21,6 +21,7 @@
 + DRACOON
 + Dropbox
 + Google Drive
++ NFS
 + Microsoft OneDrive
 + Microsoft SharePoint
 + 私有存储系统 ✔
